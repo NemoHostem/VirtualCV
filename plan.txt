@@ -1,0 +1,41 @@
+﻿CV websivu
+
+# Work experience
+- Nokia
+- Nursebuddy
+- Military service
+- Finnish Defence Research Agency
+
+# Education
+- Päivölän kansanopisto
+- B.Sc TTY
+- M.Sc TY
+
+# Skills
+- Languages
+- Programming skills
+- Trends
+- Other skills
+
+# Awards and publications
+- ECSM best poster
+- TuKoKe 3rd award
+- Paras ledivilkutin
+- Survo -ristikkokilpailu
+- MAOL matematiikkakilpailut
+- muut valtakunnalliset kilpailut (yläaste, lukio)
+
+- ECSM certificates
+- Elements of AI
+
+- Scalable Algorithm for ...
+- Scythe mallinnus
+- Kandi
+
+
+# About me
+- Description
+- Top 3 experiences recently
+- Top 3 courses I have attended
+- Top 3 movies
+- Image /s about me

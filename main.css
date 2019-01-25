@@ -78,6 +78,29 @@ header p {
   color: #fff;
 }
 
+.poster {
+  display: flex;
+  background-image: url('imgs/ECSM2.jpg');
+  background-size: cover;
+  height: 360px;
+  background-position: center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  border: 1px solid black;
+  justify-content: center;
+  text-shadow: 0.25px 0.25px 0.25px #000000;
+}
+
+.poster h4 {
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  vertical-align: middle;
+  align-items: center;
+  margin: 0;
+  color: #000;
+}
+
 .ecsm {
   display: flex;
   background-image: url('imgs/ECSM.JPG');
@@ -143,7 +166,7 @@ section .row img {
 .flip-card {
   background-color: transparent;
   width: 300px;
-  height: 300px;
+  height: 350px;
   /* border: 1px solid #f1f1f1; */
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
 }
